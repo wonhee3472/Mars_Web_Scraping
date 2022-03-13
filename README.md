@@ -22,13 +22,13 @@ Followings are what I scraped from the different websites for various informatio
 
 ### Mars Facts
 * Visited [the Mars Facts webpage](https://galaxyfacts-mars.com/)
-
 * Used Pandas to convert the data to a HTML table string
+![](mission_to_mars/images/Mars_Facts.png)
 
 ### Mars Hemispheres
 * Visited the [GUSS Science Center website](https://marshemispheres.com/) to obtain high resolution images for each of Mars' hemispheres
-
-
 * Select hemisphere links to find image url to the full resolution image
-
-## 2. Update the Web App with Mars' Hemisphere Images and Titles
+* Saved both the image url string for the full resolution hemisphere image, and the hemisphere title containing the hemisphere name.
+* Used a Python dictionary to store the data using the keys `img_url` and `title`.
+* Append the dictionary with the image url string and the hemisphere title to a list. This list will contain one dictionary for each hemisphere
+![](mission_to_mars/images/Mars_Hemispheres.png)
