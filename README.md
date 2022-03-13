@@ -1,4 +1,5 @@
 # Mars Rover Web Scraping App
+<img src='https://www.bitou.net/wp-content/uploads/sites/3/2020/11/mission-to-mars_Header-1366x546.jpg'>
 
 ## Objective
 Build a web application that scrapes various websites for data related to the Mission to Mars and displays the following information in a single HTML page:
@@ -6,8 +7,6 @@ Build a web application that scrapes various websites for data related to the Mi
 * Featured Image
 * Facts about the planet
 * Images of the hemispheres
-
-<img src='https://www.bitou.net/wp-content/uploads/sites/3/2020/11/mission-to-mars_Header-1366x546.jpg'>
 
 ## 1. Scraping Mars Data
 Followings are what I scraped from the different websites for various information about Mars.
