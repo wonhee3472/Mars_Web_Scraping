@@ -7,7 +7,7 @@ Build a web application that scrapes various websites for data related to the Mi
 * Facts about the planet
 * Images of the hemispheres
 
-![](mission_to_mars/images/Mission-To-Mars.jpeg | width=100)
+<img src='https://www.bitou.net/wp-content/uploads/sites/3/2020/11/mission-to-mars_Header-1366x546.jpg' width='100'>
 
 ## 1. Scraping Mars Data
 Followings are what I scraped from the different websites for various information about Mars.
